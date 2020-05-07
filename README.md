@@ -47,7 +47,7 @@ This project is about the automation of the things which takes place in the indu
 
 ![alt text](https://github.com/Rahul-Mahawar/Devops_Automation_Project/blob/master/pycode.png)
 
-## Step 8, 9 & 10: In job 3 as the testing team have given the certificate then it will go to the GitHub & merge the code with the master branch code and also delete the testing os as we always want new os for testing that’s why we use Docker.
+## Step 9 & 10: In job 3 as the testing team have given the certificate then it will go to the GitHub & merge the code with the master branch code and also delete the testing os as we always want new os for testing that’s why we use Docker.
 
 ![alt text](https://github.com/Rahul-Mahawar/Devops_Automation_Project/blob/master/merge1.1.png)
 
